@@ -1,9 +1,6 @@
 📌 Phone Call Monitor & DTMF Analyzer
-
 A Python-based GUI application that automates phone call operations using ADB, monitors call status using OCR, plays audio responses, and analyzes recorded calls to detect DTMF tones. This tool is designed for telecom testing, automation, and IVR system validation.
-
 🚀 Features
-
 📞 Call Automation
 
 Initiates phone calls using ADB (Android Debug Bridge)
