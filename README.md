@@ -18,7 +18,6 @@ Plays a predefined audio file during calls
 Stops playback and disconnects calls automatically
 
 🎯 DTMF Tone Detection
-
 Extracts recorded calls from the device
 Converts MP3 recordings to WAV using FFmpeg
 Implements Goertzel Algorithm for detecting DTMF tones
