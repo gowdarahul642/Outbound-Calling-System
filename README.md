@@ -28,7 +28,6 @@ Detects keypad tones (e.g., 1, 2) from call recordings
 Saves detected DTMF tones into Excel files
 Separate sheets/files for different tones
 Directly opens results from the GUI
-
 🖥️ GUI Interface
 
 Built with Tkinter
