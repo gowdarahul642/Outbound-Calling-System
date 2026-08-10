@@ -5,7 +5,6 @@ A Python-based GUI application that automates phone call operations using ADB, m
 Initiates phone calls using ADB (Android Debug Bridge)
 Reads phone numbers from an Excel file
 Automatically dials numbers sequentially
-
 🧠 Smart Call Monitoring
 
 Captures live screenshots from the connected Android device
