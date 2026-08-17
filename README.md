@@ -22,7 +22,6 @@ Implements Goertzel Algorithm for detecting DTMF tones
 Detects keypad tones (e.g., 1, 2) from call recordings
 
 📊 Result Export
-
 Saves detected DTMF tones into Excel files
 Separate sheets/files for different tones
 Directly opens results from the GUI
